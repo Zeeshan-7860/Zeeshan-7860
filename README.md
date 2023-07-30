@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **zeeshanpasha537@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/zeeshan-ahmed-99236b260](www.linkedin.com/in/zeeshan-ahmed-99236b260)
+- 📄 Know about my experiences [www.linkedin.com/in/zeeshan-ahmed-99236b260]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
