@@ -1,5 +1,5 @@
 <div style="height: 100px;">
-  <img src="https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif" alt="Master Head GIF"">
+  <img  width="900" height="320" align="center" src="https://i.pinimg.com/originals/b8/71/76/b8717641f46cdfdced2c86e984f07c11.gif" alt="Master Head GIF"">
 </div>
 
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmed</h1>
